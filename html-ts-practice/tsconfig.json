@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "sourceMap": true,
+    "inlineSources": false,
+    "strict": true,
+    "skipLibCheck": false
+  },
+  "include": ["./src/**/*.ts"] // This should be outside "compilerOptions"
+}
